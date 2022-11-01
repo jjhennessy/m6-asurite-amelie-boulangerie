@@ -1,0 +1,21 @@
+html{
+    font-family: Verdana,Arial,sans-serif;
+    line-height: 1.5;
+}
+
+body{
+    background-color: #F28095;
+    margin: 0;
+}
+
+header, footer{
+    width: 1000px;
+    text-align: center;
+}
+
+header{
+    height: 150px;
+    background-image: ("bowl.jpg");
+    background-color: #141a1a;
+    color: white;
+}
